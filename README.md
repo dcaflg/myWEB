@@ -7,5 +7,5 @@
   5.连接前后端 <br>  
   6.部署上线，在浏览器里查看网站<br>  
     [MarkDown编辑的技术支持网页](https://blog.csdn.net/Dream_ling/article/details/83021672)<br>
-    1. * Author:afa
-    2. * 座右铭：学无先后，达者为先
+1. * Author:afa<br>
+2. * 座右铭：学无先后，达者为先
